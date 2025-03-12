@@ -9,3 +9,7 @@ S
 #contracts/sorting-verification.clar,8/6/86502cd0cd165c23ac1d5ad11df75b4f4108da36
 R
 "tests/sorting-verification.test.ts,7/e/7ef17574c262e88ac2d4f35d4d4002cf615e8955
+O
+contracts/recycling-reward.clar,d/b/db37a0a0b6284d994657c3733846404c911d5415
+N
+tests/recycling-reward.test.ts,c/7/c7bd945c077c4fa3ab14b618a37411e0de865bc4
