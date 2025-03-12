@@ -5,3 +5,7 @@ O
 contracts/waste-collection.clar,2/9/2945eedb18a095a4f8ab7861a5cffa7c7f134c06
 N
 tests/waste-collection.test.ts,7/3/73eb76c30508de0a94d760e7ebad1cdb1fa3051f
+S
+#contracts/sorting-verification.clar,8/6/86502cd0cd165c23ac1d5ad11df75b4f4108da36
+R
+"tests/sorting-verification.test.ts,7/e/7ef17574c262e88ac2d4f35d4d4002cf615e8955
