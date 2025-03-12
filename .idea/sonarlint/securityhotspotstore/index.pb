@@ -13,3 +13,7 @@ O
 contracts/recycling-reward.clar,d/b/db37a0a0b6284d994657c3733846404c911d5415
 N
 tests/recycling-reward.test.ts,c/7/c7bd945c077c4fa3ab14b618a37411e0de865bc4
+S
+#contracts/environmental-impact.clar,1/6/162d327b55c3a0cf316e1f43c54992f5e595172e
+R
+"tests/environmental-impact.test.ts,b/9/b961151ac0e41ad9eb6aade97665fd44a9944e45
